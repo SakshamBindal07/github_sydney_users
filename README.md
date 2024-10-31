@@ -1,4 +1,3 @@
-"# GitHub User and Repository Data Collection - Sydney"
 # GitHub User and Repository Data Collection - Sydney
 
 - This project gathers data from the GitHub API on Sydney-based users with high follower counts and their public repositories.
